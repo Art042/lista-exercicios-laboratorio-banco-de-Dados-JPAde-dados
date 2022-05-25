@@ -1,5 +1,5 @@
 ## lista-exercicios-laboratorio-banco-de-Dados-JPA
-## Exercícios de  exercícios Laboratório de Banco de dados JPA
+<b><u>Exercícios de  exercícios Laboratório de Banco de dados JPA</u></b>
 
 <div> 
 <b>Exercicio 1 -</b> Descrição de consultas SQL Básicas
