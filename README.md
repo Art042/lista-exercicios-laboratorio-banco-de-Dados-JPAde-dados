@@ -1,4 +1,4 @@
-## lista-exercicios-laboratorio-banco-de-Dados-JPAde-dados
+## lista-exercicios-laboratorio-banco-de-Dados-JPA
 ## Exercícios de  exercícios Laboratório de Banco de dados JPA
 
 <div> 
